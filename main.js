@@ -1,3 +1,4 @@
+/*Yago Henrique Ribeiro Pereira & 26110454*/
 const formulario = document.getElementById("calcForm")
 
 formulario.addEventListener("submit", function(e){
